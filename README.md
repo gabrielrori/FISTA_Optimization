@@ -1,5 +1,3 @@
-Se agrega esto
-Otimization of FISTA using Warm Start and Screening
+#Acerca de:
 
- cambios del repositorio
-Esto tambien
+Otimization of FISTA using Warm Start and Screening
